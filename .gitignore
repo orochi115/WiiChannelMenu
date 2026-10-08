@@ -1,0 +1,6 @@
+build/
+build-debug/
+*.elf
+*.dol
+*.map
+.DS_Store
